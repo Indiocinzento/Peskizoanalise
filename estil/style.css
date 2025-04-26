@@ -1,0 +1,20 @@
+@charset "UTF-8";
+html {background-color: lightsalmon; font-family: Arial, Helvetica, sans-serif;}
+section {width: 900px; background-color: tan; display: flex; justify-content: center; margin: auto; box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.322);}
+section.bo {border-radius: 20px 20px 0px 0px;}
+section.to {border-radius: 0px 0px 20px 20px;}
+div, nav {display: flex; justify-content: center; padding: 10px;}
+div.img {flex-direction: column;}
+h1 {color: rgb(94, 94, 94); text-align: center; font-size: 2.2em;}
+p {color: rgb(94, 94, 94); text-align: justify; font-size: 1.1em;}
+img.i {width: 430px;}
+img.au {width: 650px; box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.322); padding: 5px;}
+u {color: #044999e7; text-decoration-style: double;}
+span {color: #772403b9;}
+span.a, p#a {color: #044999e7;}
+span.v {color: rgb(40, 114, 40);}
+span.cv {color: rgb(150, 16, 16);}
+span.r {color: blueviolet;}
+span.c {color: rgb(141, 141, 141);}
+b {font: arial narrow; color: rgb(122, 89, 5);}
+i.i {font-size: 0.8em; font: arial narrow;}
